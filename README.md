@@ -1,1 +1,1 @@
-# Common hardware components for MediaTek devices
+# Hardware Mediatek Edited By HAPPYGAMES222
